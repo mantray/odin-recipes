@@ -1,0 +1,59 @@
+body{
+    background-color: lightgreen;
+    line-height: 1.5;
+}
+
+.container {
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+h1{
+    text-shadow: #f0ffff;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    border: 1px solid darkred;
+}
+p{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+  font-size: xx-large;
+}
+
+.menu{
+ font-style: italic;
+ font-size: large;
+ text-decoration: none;
+ list-style: none;
+ border: 2px solid darkred;
+ border-style: dotted;
+}
+
+.procedure{
+    border: 2px solid darkred;
+}
+
+ul{
+    font-style: initial;
+    list-style: none;
+}
+
+ol{
+    list-style:symbols(Regular);
+}
